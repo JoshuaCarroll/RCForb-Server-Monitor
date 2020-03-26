@@ -1,0 +1,143 @@
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\x86\sqlite3.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\x64\sqlite3.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\RCForb Server Monitor.exe.config
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\RCForb Server Monitor.exe
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\RCForb Server Monitor.pdb
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\Microsoft.Win32.Primitives.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\netstandard.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.AppContext.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Collections.Concurrent.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Collections.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Collections.NonGeneric.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Collections.Specialized.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.ComponentModel.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.ComponentModel.Primitives.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.ComponentModel.TypeConverter.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Console.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Data.Common.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Diagnostics.Contracts.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Diagnostics.Debug.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Diagnostics.Process.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Diagnostics.StackTrace.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Diagnostics.Tools.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Diagnostics.TraceSource.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Diagnostics.Tracing.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Drawing.Primitives.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Dynamic.Runtime.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Globalization.Calendars.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Globalization.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Globalization.Extensions.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.IO.Compression.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.IO.Compression.ZipFile.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.IO.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.IO.FileSystem.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.IO.FileSystem.Primitives.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.IO.FileSystem.Watcher.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.IO.IsolatedStorage.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.IO.MemoryMappedFiles.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.IO.Pipes.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Linq.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Linq.Expressions.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Linq.Parallel.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Linq.Queryable.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Net.Http.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Net.NameResolution.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Net.NetworkInformation.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Net.Ping.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Net.Primitives.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Net.Requests.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Net.Security.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Net.Sockets.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Net.WebHeaderCollection.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Net.WebSockets.Client.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Net.WebSockets.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.ObjectModel.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Reflection.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Reflection.Extensions.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Reflection.Primitives.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Resources.Reader.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Resources.ResourceManager.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Resources.Writer.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Runtime.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Runtime.Extensions.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Runtime.Handles.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Runtime.InteropServices.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Runtime.Numerics.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Runtime.Serialization.Formatters.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Runtime.Serialization.Json.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Runtime.Serialization.Primitives.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Runtime.Serialization.Xml.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Security.Claims.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Security.Cryptography.Algorithms.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Security.Cryptography.Csp.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Security.Cryptography.Encoding.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Security.Cryptography.Primitives.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Security.Principal.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Security.SecureString.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Text.Encoding.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Text.Encoding.Extensions.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Text.RegularExpressions.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Threading.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Threading.Overlapped.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Threading.Tasks.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Threading.Tasks.Parallel.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Threading.Thread.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Threading.ThreadPool.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Threading.Timer.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.ValueTuple.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Xml.ReaderWriter.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Xml.XDocument.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Xml.XmlDocument.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Xml.XmlSerializer.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Xml.XPath.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Xml.XPath.XDocument.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\Microsoft.Data.Sqlite.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\SQLitePCLRaw.core.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Buffers.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Memory.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Numerics.Vectors.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\Microsoft.Data.Sqlite.xml
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Buffers.xml
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Memory.xml
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Numerics.Vectors.xml
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\obj\Debug\RCForb Server Monitor.csprojResolveAssemblyReference.cache
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\obj\Debug\RCForb Server Monitor.exe.config
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\obj\Debug\RCForb_Server_Monitor.Form1.resources
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\obj\Debug\RCForb_Server_Monitor.Properties.Resources.resources
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\obj\Debug\RCForb Server Monitor.csproj.GenerateResource.Cache
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\obj\Debug\RCForb Server Monitor.csproj.CoreCompileInputs.cache
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\obj\Debug\RCForb Server Monitor.exe
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\obj\Debug\RCForb Server Monitor.pdb
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\RCForb Server Monitor.exe.manifest
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\RCForb Server Monitor.application
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\obj\Debug\RCForb Server Monitor.exe.manifest
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\obj\Debug\RCForb Server Monitor.application
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\Microsoft.CSharp.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.ComponentModel.DataAnnotations.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Data.DataSetExtensions.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Data.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Deployment.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Drawing.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Numerics.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Windows.Forms.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Xml.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\System.Xml.Linq.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\Newtonsoft.Json.dll
+Y:\Documents\Documents - Joshua’s MacBook Pro\Github\RCForb-Server-Monitor\RCForb-Server-Monitor\RCForb Server Monitor\bin\Debug\Newtonsoft.Json.xml
